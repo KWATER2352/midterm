@@ -1,2 +1,3 @@
 # midterm
-1. 
+1. <a href="midterm.asm">midterm code</a>
+
